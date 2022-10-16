@@ -25,3 +25,5 @@
 <!--
 **June060522/June060522** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=DDOngYeop&theme=nightowl_repo=Computer-Science-Engineering&layout=compact&langs_count=6"/>
