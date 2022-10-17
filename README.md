@@ -21,8 +21,4 @@
 
 [![June060522's github stats](https://github-readme-stats.vercel.app/api?username=June060522&show_icons=true&theme=dracula)](https://github.com/June060522)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=June060522&theme=nightowl_repo=Computer-Science-Engineering&layout=compact&langs_count=6"/>
 
-<!--
-**June060522/June060522** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
--->
