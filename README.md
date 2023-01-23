@@ -3,7 +3,7 @@
 |:--------:|:--------:|:--------:|:--------:|
 | **경기게임마이스터고등학교** | 게임개발과 | 2022 ~ 2024 | **([http://ggm.gondr.net/](http://ggm.gondr.net/user/profile/210))** |
 
-## Portfolio
+## Portfolio 
 
 <h2 align="left">:arrow_forward: 경력</h2>
 
