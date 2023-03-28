@@ -18,3 +18,5 @@
 <h2 align="left">:computer: 깃허브 정보</h2>
 
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=June060522&theme=calm)](https://github.com/June060522)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=June060522&langs_count=10&layout=compact&theme=dark)](https://github.com/June060522/June060522)
