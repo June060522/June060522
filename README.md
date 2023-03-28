@@ -18,3 +18,5 @@
 <h2 align="left">:computer: 깃허브 정보</h2>
 
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=June060522&theme=calm)](https://github.com/June060522)
+
+![image](https://user-images.githubusercontent.com/98876187/228162106-00e121bb-50ae-4e5f-a3be-2cfb2639a72f.png)
