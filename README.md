@@ -24,7 +24,7 @@
 >🏅수상
 -------------
 ## <center>[2022년 1학기]<center>
-###### <center>엔진 개인 프로젝트 2위<center>
+###### <center>엔진 개인 프로젝트 2위<center> 
 ###### <center>컴퓨터 시스템 일반 교과 우수상<center>
 ###### <center>체육 교과 우수상<center>
 ###### <center>전국 청소년 충북 게임잼 우수상 및 베스트 아트상<center>
