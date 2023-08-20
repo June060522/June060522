@@ -45,7 +45,7 @@
 ###### <center>수학 교과 우수상<center>
 ###### <center>게임 프로그래밍 교과 우수상<center>
 
->✏자격증
+>✏자격증 
 -------------
 ###### <center> 정보처리 기능사 <center>
 ###### <center> ITQ 1급 <center>
