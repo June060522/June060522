@@ -31,7 +31,7 @@
 
 <br>
 <br>
-
+ 
 ## <center>[2022년 2학기]<center>
 ###### <center>게임 기획 교과 우수상<center>
 ###### <center>전공 동아리 3,4분기 4위<center>
